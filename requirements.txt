@@ -1,0 +1,10 @@
+flask-restful
+requests
+flask
+gunicorn
+flask-cors
+elasticsearch
+pyyaml
+ua-parser
+user-agents
+envparse
