@@ -11,7 +11,7 @@ env = Env(
     MAILGUN_API_KEY=str,
     EMAIL_DOMAIN=str,
     EMAIL_USER=dict(cast=str, default='root'),
-    TO=dict(cast=list, default='xns@protonmail.com'),
+    TO=dict(cast=list, default='drovn@protonmail.com'),
     PAGE_SMS=dict(cast=bool, default=True),
     IPTOEARTH_API_KEY=str,
 )
